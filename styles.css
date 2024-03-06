@@ -1,0 +1,42 @@
+body{
+    background: black ;
+    padding-left:25%;
+    padding-top:10%;
+}
+
+.app-post{
+    background-color: white;
+    width:600px;
+    height:800px;
+    
+    
+
+}
+
+header{
+    display:flex;
+
+   
+}
+
+
+
+.header-title{
+    display: flex;
+    width:600px;
+}
+
+.interaction{
+    display:flex;
+}
+.main-interaction{
+    width:600px;
+
+}
+.likes{
+    font-size:20px;
+}
+.description{
+    font-size: 20px;
+    padding-bottom: 70px;
+}
